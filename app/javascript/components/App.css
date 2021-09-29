@@ -7,7 +7,6 @@
 body {
     min-height: 100vh;
     color: rgb(1, 1, 1);
-    background-image: url(../img/todo.jpeg);
     background-repeat: repeat-y;
 }
 
